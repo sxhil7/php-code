@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple Login From</title>
+    <title>Login From</title>
 </head>
 <body>
     <form action="submit.php" method="post">
